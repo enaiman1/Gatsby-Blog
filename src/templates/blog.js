@@ -18,7 +18,8 @@ query ($slug: String!) {
       }
       html
     }
-  }`
+  }
+  `
 
 const Blog = (props) => {
     return (
